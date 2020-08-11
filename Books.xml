@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Books.xsl"?>
+
+<Books>
+	<Book Cover="Paper back">
+		<Isbn>9780545261241</Isbn>
+		<Title>The Wonky Donkey</Title>
+		<Author>
+			<Name>
+				<First>Craig</First>
+				<Last>Smith</Last>
+			</Name>
+			<Contact Office="BY200">
+					<Phone>303-840-8585</Phone>
+			</Contact>
+		</Author>
+		<Author>
+			<Name>
+				<First>Katz</First>
+				<Last>Cowley</Last>
+			</Name>
+			<Contact Office="BY201">
+					<Phone>303-840-8586</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Scholastic Inc.</Publisher>
+		<Year Edition="1">2010-05-01</Year>
+		<FBT>
+			<Isbn>9780385544153</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780374201234</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9780374201234</Isbn>
+		<Title>The Mamba Mentality: How I Play</Title>
+		<Author>
+			<Name>
+				<First>Kobe</First>
+				<Last>Bryant</Last>
+			</Name>
+			<Contact Office="BY202">
+					<Phone>303-840-7890</Phone>
+			</Contact>
+		</Author>
+		<Author>
+			<Name>
+				<First>Andrew</First>
+				<Last>Bernstein</Last>
+			</Name>
+			<Contact Office="BY203">
+					<Phone>303-840-7891</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Farrar, Straus and Giroux</Publisher>
+		<Year>2018-10-23</Year>
+		<FBT>
+			<Isbn>9780385544153</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781619636101</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9780385544153</Isbn>
+		<Title>The Reckoning</Title>
+		<Author>
+			<Name>
+				<First>John</First>
+				<Last>Grisham</Last>
+			</Name>
+			<Contact Office="BY204">
+					<Phone>303-832-6510</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Knopf Doubleday Publishing Group</Publisher>
+		<Year>2018-10-23</Year>
+		<FBT>
+			<Isbn>9781619636101</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780374201234</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9781619636101</Isbn>
+		<Title>Kingdom of Ash</Title>
+		<Author>
+			<Name>
+				<First>Sarah</First>
+				<Last>Maas</Last>
+			</Name>
+			<Contact Office="BY205">
+					<Phone>303-842-6515</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Bloomsbury USA</Publisher>
+		<Year>2018-10-23</Year>
+		<FBT>
+			<Isbn>9781982121082</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780374201234</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9781982121082</Isbn>
+		<Title>Whose Boat Is This Boat?: Comments That Don't Help in the Aftermath of a Hurricane</Title>
+		<Author>
+			<Name>
+				<First>Stephen</First>
+				<Last>Colbert</Last>
+			</Name>
+			<Contact Office="BY206">
+					<Phone>303-332-5009</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Simon &amp; Schuster</Publisher>
+		<Year Edition="2">2018-11-06</Year>
+		<FBT>
+			<Isbn>9781619636101</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781538715772</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9781538715772</Isbn>
+		<Title>Every Breath</Title>
+		<Author>
+			<Name>
+				<First>Nicholas</First>
+				<Last>Sparks</Last>
+			</Name>
+			<Contact Office="BY207">
+					<Phone>303-344-4304</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Grand Central Publishing</Publisher>
+		<Year Edition="3">2018-10-16</Year>
+		<FBT>
+			<Isbn>9781982121082</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781419727436</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Paper back">
+		<Isbn>9781419727436</Isbn>
+		<Title>Diary of a Wimpy Kid The Meltdown</Title>
+		<Author>
+			<Name>
+				<First>Jeff</First>
+				<Last>Kinney</Last>
+			</Name>
+			<Contact Office="BY208">
+					<Phone>480-990-4567</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Amulet Books</Publisher>
+		<Year Edition="1">2018-10-30</Year>
+		<FBT>
+			<Isbn>9781538715772</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780062498533</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Paper back">
+		<Isbn>9780062498533</Isbn>
+		<Title>The Hate You Give</Title>
+		<Author>
+			<Name>
+				<First>Angie</First>
+				<Last>Thomas</Last>
+			</Name>
+			<Contact Office="BY209">
+					<Phone>480-455-6793</Phone>
+			</Contact>
+		</Author>
+		<Publisher>HarperCollins Publishers</Publisher>
+		<Year>2017-02-28</Year>
+		<FBT>
+			<Isbn>9781501183669</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781419727436</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9781501183669</Isbn>
+		<Title>Ship of Fools: How a Selfish Ruling Class Is Bringing America to the Brink of Revolution</Title>
+		<Author>
+			<Name>
+				<First>Tucker</First>
+				<Last>Carlson</Last>
+			</Name>
+			<Contact Office="BY210">
+					<Phone>480-454-6355</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Free Press</Publisher>
+		<Year>2018-10-02</Year>
+		<FBT>
+			<Isbn>9780062498533</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781400201655</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9781400201655</Isbn>
+		<Title>Girl, Wash Your Face: Stop Believing the Lies About Who You Are So You Can Become Who You Were Meant to Be</Title>
+		<Author>
+			<Name>
+				<First>Rachel</First>
+				<Last>Hollis</Last>
+			</Name>
+			<Contact Office="BY211">
+					<Phone>480-454-6550</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Nelson, Thomas, Inc.</Publisher>
+		<Year Edition="3">2018-02-06</Year>
+		<FBT>
+			<Isbn>9781501183669</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781984800671</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Paper back">
+		<Isbn>9781984800671</Isbn>
+		<Title>A Spark of Light</Title>
+		<Author>
+			<Name>
+				<First>Jodi</First>
+				<Last>Picoult</Last>
+			</Name>
+			<Contact Office="BY212">
+					<Phone>480-454-7890</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Random House Publishing Group</Publisher>
+		<Year Edition="1">2018-10-02</Year>
+		<FBT>
+			<Isbn>9781400201655</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781524763138</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Paper back">
+		<Isbn>9781524763138</Isbn>
+		<Title>Becoming</Title>
+		<Author>
+			<Name>
+				<First>Michelle</First>
+				<Last>Obama</Last>
+			</Name>
+			<Contact Office="BY213">
+					<Phone>480-454-3402</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Crown Publishing Group</Publisher>
+		<Year>2018-11-13</Year>
+		<FBT>
+			<Isbn>9781984800671</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780062838940</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Paper back">
+		<Isbn>9780062838940</Isbn>
+		<Title>The Happy Cookbook: A Celebration of the Food That Makes America Smile</Title>
+		<Author>
+			<Name>
+				<First>Steve</First>
+				<Last>Doocy</Last>
+			</Name>
+			<Contact Office="BY214">
+					<Phone>480-223-1324</Phone>
+			</Contact>
+		</Author>
+		<Author>
+			<Name>
+				<First>Kathy</First>
+				<Last>Doocy</Last>
+			</Name>
+			<Contact Office="BY215">
+					<Phone>480-223-1325</Phone>
+			</Contact>
+		</Author>
+		<Publisher>HarperCollins Publishers</Publisher>
+		<Year>2018-10-02</Year>
+		<FBT>
+			<Isbn>9781524763138</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780804187046</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9780804187046</Isbn>
+		<Title>Cook Like a Pro: Recipes and Tips for Home Cooks</Title>
+		<Author>
+			<Name>
+				<First>Ina</First>
+				<Last>Garten</Last>
+			</Name>
+			<Contact Office="BY216">
+					<Phone>480-982-4452</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Potter/Ten Speed/Harmony/Rodale</Publisher>
+		<Year>2018-10-23</Year>
+		<FBT>
+			<Isbn>9780062838940</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780062871312</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9780062871312</Isbn>
+		<Title>Why Don't We: In the Limelight</Title>
+		<Author>
+			<Name>
+				<First>Why</First>
+				<Last>Don't We</Last>
+			</Name>
+			<Contact Office="BY217">
+					<Phone>480-923-2367</Phone>
+			</Contact>
+		</Author>
+		<Publisher>HarperCollins Publishers</Publisher>
+		<Year>2018-10-30</Year>
+		<FBT>
+			<Isbn>9780804187046</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781338263893</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9781338263893</Isbn>
+		<Title>Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</Title>
+		<Author>
+			<Name>
+				<First>J.K.</First>
+				<Last>Rowling</Last>
+			</Name>
+			<Contact Office="BY218">
+					<Phone>480-122-7893</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Scholastic, Inc.</Publisher>
+		<Year Edition="4">2018-11-16</Year>
+		<FBT>
+			<Isbn>9780062871312</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780062874313</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Paper back">
+		<Isbn>9780062874313</Isbn>
+		<Title>The Next Person You Meet in Heaven</Title>
+		<Author>
+			<Name>
+				<First>Mitch</First>
+				<Last>Albom</Last>
+			</Name>
+			<Contact Office="BY219">
+					<Phone>480-331-6784</Phone>
+			</Contact>
+		</Author>
+		<Publisher>HarperCollins Publishers</Publisher>
+		<Year Edition="2">2018-10-09</Year>
+		<FBT>
+			<Isbn>9781338263893</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780143039983</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Paper back">
+		<Isbn>9780143039983</Isbn>
+		<Title>The Haunting of Hill House</Title>
+		<Author>
+			<Name>
+				<First>Shirley</First>
+				<Last>Jackson</Last>
+			</Name>
+			<Contact Office="BY220">
+					<Phone>480-868-0192</Phone>
+			</Contact>
+		</Author>
+		<Author>
+			<Name>
+				<First>Laura</First>
+				<Last>Miller</Last>
+			</Name>
+			<Contact Office="BY221">
+					<Phone>480-868-0193</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Penguin Publishing Group</Publisher>
+		<Year Edition="1">2006-11-28</Year>
+		<FBT>
+			<Isbn>9780062874313</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781982113728</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9781982113728</Isbn>
+		<Title>Shook One: Anxiety Playing Tricks on Me</Title>
+		<Author>
+			<Name>
+				<First>Charlamagne</First>
+				<Last>Tha God</Last>
+			</Name>
+			<Contact Office="BY222">
+					<Phone>480-532-7980</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Touchstone</Publisher>
+		<Year>2018-10-23</Year>
+		<FBT>
+			<Isbn>9780143039983</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9781982113940</Isbn>
+		</FBT>
+	</Book>
+
+	<Book Cover="Hardcover">
+		<Isbn>9781982113940</Isbn>
+		<Title>The Clockmaker's Daughter</Title>
+		<Author>
+			<Name>
+				<First>Kate</First>
+				<Last>Morton</Last>
+			</Name>
+			<Contact Office="BY223">
+					<Phone>480-676-1299</Phone>
+			</Contact>
+		</Author>
+		<Publisher>Atria Books</Publisher>
+		<Year>2018-10-09</Year>
+		<FBT>
+			<Isbn>9780385544153</Isbn>
+		</FBT>
+		<FBT>
+			<Isbn>9780374201234</Isbn>
+		</FBT>
+	</Book>
+
+</Books>
